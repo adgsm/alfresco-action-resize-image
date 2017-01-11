@@ -14,7 +14,7 @@ mvn clean install
 ```
 or
 ```
-java -jar /opt/alfresco/bin/alfresco-mmt.jar install alfresco-js-extensions /opt/alfresco/tomcat/webapps/alfresco.war
+java -jar /opt/alfresco/bin/alfresco-mmt.jar install alfresco-action-resize-image /opt/alfresco/tomcat/webapps/alfresco.war
 ```
 
 ### License
